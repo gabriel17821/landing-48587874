@@ -1,0 +1,14 @@
+{
+    "redirects": [
+        {
+            "source": "/learn-more",
+            "destination": "/",
+            "permanent": true
+        },
+        {
+            "source": "/learn-more/",
+            "destination": "/",
+            "permanent": true
+        }
+    ]
+}
